@@ -1,0 +1,4 @@
+type,difficulty,category,question,correctAnswer,incorrectAnswer1,incorrectAnswer2,incorrectAnswer3
+multiple,easy,Science & Nature,Tot welke soort behoort de dolfijn?,Zoogdieren,Vissen,Amfibieën,Insecten
+multiple,hard,Science & Nature,Which is the chemical name of H2O?,Dihydrogen Monoxide,Ammonium chloride,Anhydrous Sodium Carbonate,Manganese dioxide
+multiple,easy,Science & Nature,How many planets are in our Solar System?,Eight,Seven,Nine,Ten
